@@ -1,72 +1,75 @@
-🚀 CodeMate – AI-Powered Code Review System
-<p align="center"> <img src="https://img.shields.io/badge/React-Frontend-blue?logo=react" /> <img src="https://img.shields.io/badge/Node.js-Backend-green?logo=node.js" /> <img src="https://img.shields.io/badge/AI-GPT-orange" /> <img src="https://img.shields.io/badge/Status-Active-success" /> </p>
-🧠 Overview
+Fixfy–AI-Powered Code Review System
 
-CodeMate is an AI-powered code review platform that helps developers and students analyze, debug, and improve their code instantly.
-It acts like a Senior Developer, giving feedback on performance, readability, security, and best practices.
+ About the Project
 
-🎬 Demo (GIF Preview)
+Fixfy-AI is an AI-powered code review platform designed to help developers and students write cleaner, more efficient, and error-free code. It allows users to paste or write code and instantly receive intelligent feedback, suggestions, and optimized versions using advanced AI models.
 
-👉 Replace this with your own GIF
+The system analyzes code for:
 
-<p align="center"> <img src="https://your-gif-link-here.gif" width="800"/> </p>
-📸 Screenshots
-🖥️ Code Editor Interface
-<p align="center"> <img src="https://your-screenshot1.png" width="800"/> </p>
-🤖 AI Review Output
-<p align="center"> <img src="https://your-screenshot2.png" width="800"/> </p>
+❌ Bugs and logical errors
+⚡ Performance improvements
+🔐 Security issues
+📐 Code quality and best practices
+
+It acts like a Senior Code Reviewer, providing detailed explanations and improved code outputs.
+
 ✨ Features
-🧠 AI-powered code review (GPT-based)
-💻 Live code editor with syntax highlighting
-⚡ Instant suggestions & optimized code
-🌍 Multi-language support
-📄 Markdown + syntax highlighted output
-⏳ Smooth loading animation
-🎯 Clean UI with split screen
+🧠 AI-based code review and suggestions
+💻 Live code editor with syntax highlighting (Prism.js)
+🌍 Multi-language support (JavaScript, Python, Java, C++)
+📄 Markdown-based response rendering with highlighted code
+⚙️ Full-stack architecture (React + Node.js + AI API)
+⏳ Loading animation for better user experience
 🏗️ Tech Stack
-Frontend
+
+Frontend:
+
 React.js
 Prism.js
 react-simple-code-editor
 React-Markdown
-Backend
+
+Backend:
+
 Node.js
 Express.js
 Axios
-AI
-OpenAI API (GPT Model)
-⚙️ System Flow
-User → React Frontend → Node.js Backend → AI Model → Backend → Frontend → User
-🛠️ Setup & Installation
-git clone https://github.com/your-username/codemate.git
-cd codemate
-npm install
-▶️ Run Project
-npm run dev     # frontend
-node server.js  # backend
-🔑 Add API Key
 
-Create .env file:
+AI Integration: API_KEY
+
+OpenAI API (GPT-based model)
+⚙️ System Architecture
+<img width="1034" height="572" alt="Screenshot 2026-04-25 230548" src="https://github.com/user-attachments/assets/838ac801-d027-4d1f-96f8-2deba1013c98" />
+
+🛠️ Installation & Setup
+1️⃣ Clone the Repository
+git clone https://github.com/atique5md/Fixify-AI
+cd codemate
+2️⃣ Install Dependencies
+npm install
+3️⃣ Run Frontend
+npm run dev
+4️⃣ Run Backend
+node server.js
+5️⃣ Add API Key
+
+Create a .env file in backend:
 
 OPENAI_API_KEY=your_api_key_here
 📌 Usage
-Paste your code
+Open the app in your browser
+Paste or write your code
 Click Get Review
-See AI feedback
-Improve your code 🚀
+View AI suggestions and improved code
 🎯 Future Scope
-🔍 AI Debugger
-🧪 Auto Test Case Generator
-🧩 Code-to-Project Builder
-🔗 GitHub PR Integration
-💻 VS Code Extension
-👨‍💻 Author
+AI Debugger with error explanation
+Auto Unit Test Generator
+Code-to-Project Generator
+GitHub Integration for pull request reviews
+VS Code Extension for real-time suggestions
 
-Your Name
+👤 Author
+MD ATIQUE
+📄 License
 
-📧 your-email@example.com
-💼 LinkedIn: https://linkedin.com/in/yourprofile
-🐙 GitHub: https://github.com/your-username
-⭐ Show Your Support
-
-If you like this project, give it a ⭐ on GitHub!
+This project is for academic and educational purposes.
