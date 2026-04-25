@@ -6,20 +6,20 @@ Fixfy-AI is an AI-powered code review platform designed to help developers and s
 
 The system analyzes code for:
 
-❌ Bugs and logical errors
-⚡ Performance improvements
-🔐 Security issues
-📐 Code quality and best practices
+❌ Bugs and logical errors <br>
+⚡ Performance improvements<br>
+🔐 Security issues<br>
+📐 Code quality and best practices<br>
 
 It acts like a Senior Code Reviewer, providing detailed explanations and improved code outputs.
 
-✨ Features
-🧠 AI-based code review and suggestions
-💻 Live code editor with syntax highlighting (Prism.js)
-🌍 Multi-language support (JavaScript, Python, Java, C++)
-📄 Markdown-based response rendering with highlighted code
-⚙️ Full-stack architecture (React + Node.js + AI API)
-⏳ Loading animation for better user experience
+✨ Features<br>
+🧠 AI-based code review and suggestions<br>
+💻 Live code editor with syntax highlighting (Prism.js)<br>
+🌍 Multi-language support (JavaScript, Python, Java, C++)<br>
+📄 Markdown-based response rendering with highlighted code<br>
+⚙️ Full-stack architecture (React + Node.js + AI API)<br>
+⏳ Loading animation for better user experience<br>
 🏗️ Tech Stack
 
 Frontend:
