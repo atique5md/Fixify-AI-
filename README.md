@@ -55,12 +55,12 @@ node server.js<br>
 
 Create a .env file in backend:
 
-OPENAI_API_KEY=your_api_key_here
-📌 Usage
-Open the app in your browser
-Paste or write your code
-Click Get Review
-View AI suggestions and improved code
+OPENAI_API_KEY=your_api_key_here<br>
+📌 Usage<br>
+Open the app in your browser<br>
+Paste or write your code<br>
+Click Get Review<br>
+View AI suggestions and improved code<br>
 🎯 Future Scope<br>
 AI Debugger with error explanation<br>
 Auto Unit Test Generator<br>
