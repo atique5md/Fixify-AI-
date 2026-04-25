@@ -41,17 +41,17 @@ OpenAI API (GPT-based model)
 ⚙️ System Architecture
 <img width="1034" height="572" alt="Screenshot 2026-04-25 230548" src="https://github.com/user-attachments/assets/838ac801-d027-4d1f-96f8-2deba1013c98" />
 
-🛠️ Installation & Setup
-1️⃣ Clone the Repository
-git clone https://github.com/atique5md/Fixify-AI
-cd codemate
-2️⃣ Install Dependencies
-npm install
-3️⃣ Run Frontend
-npm run dev
-4️⃣ Run Backend
-node server.js
-5️⃣ Add API Key
+🛠️ Installation & Setup<br>
+1️⃣ Clone the Repository<br>
+git clone https://github.com/atique5md/Fixify-AI<br>
+cd codemate<br>
+2️⃣ Install Dependencies<br>
+npm install<br>
+3️⃣ Run Frontend<br>
+npm run dev<br>
+4️⃣ Run Backend<br>
+node server.js<br>
+5️⃣ Add API Key<br>
 
 Create a .env file in backend:
 
@@ -61,15 +61,14 @@ Open the app in your browser
 Paste or write your code
 Click Get Review
 View AI suggestions and improved code
-🎯 Future Scope
-AI Debugger with error explanation
-Auto Unit Test Generator
-Code-to-Project Generator
-GitHub Integration for pull request reviews
-VS Code Extension for real-time suggestions
+🎯 Future Scope<br>
+AI Debugger with error explanation<br>
+Auto Unit Test Generator<br>
+Code-to-Project Generator<br>
+GitHub Integration for pull request reviews<br>
+VS Code Extension for real-time suggestions<br>
 
-👤 Author
-MD ATIQUE
+👤 Author<br>
+MD ATIQUE<br><br>
 📄 License
-
 This project is for academic and educational purposes.
